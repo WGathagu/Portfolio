@@ -63,5 +63,15 @@ body {
         float: right;
         margin-top: -5%;
       }
+      table {
+        width: 100%;
+        border: 1px solid rgb(87, 139, 87);
+      }
+
+      td {
+        text-align: left;
+        padding: 3px;
+        border-right: 1px solid rgb(87, 139, 87);
+      }
 
 
