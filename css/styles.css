@@ -12,7 +12,16 @@ body {
 
     h3{
       text-decoration: underline;
+    } 
+
+    h4{
+      padding: 0px;
+      margin: 0px;
+      border: 1px;
+      border-bottom-style: solid;
+      border-color: rgb(155, 197, 190);
     }  
+
     .container {
         border: 2px;
         border-style: solid;
@@ -55,9 +64,15 @@ body {
         display: table;
         clear: both;
       }
+      #profile {
+        font-size: x-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        color: rgb(79, 138, 138);
+      }
       #head {
         font-size: large;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: 'Franklin Gothic Medium';
         font-weight: bold;
         color: rgb(79, 138, 138);
       }
