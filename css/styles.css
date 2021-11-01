@@ -15,12 +15,20 @@ body {
     } 
 
     h4{
-      padding: 0px;
-      margin: 0px;
+      padding: 1px;
+      margin: 1px;
       border: 1px;
       border-bottom-style: solid;
       border-color: rgb(155, 197, 190);
     }  
+    b{
+      color: #1f3f3f;
+    }
+
+    a{
+      text-decoration-color: #1f3f3f;
+      text-decoration: underline;
+    }
 
     .container {
         border: 2px;
@@ -32,15 +40,15 @@ body {
     }
     .well {
         width: 100%;
-        margin-left: 2%;
+        background-color: rgb(222, 233, 217)
     }
     .topnavigation {
-        background-color: #d4ddd5;
+        background-color: #c3d8c6;
         overflow: hidden;
       }
     .topnavigation a {
         float: left;
-        color: rgb(79, 138, 138);
+        color: rgb(70, 114, 114);
         text-align: center;
         padding: 14px 16px;
         font-weight: bold;
@@ -68,7 +76,7 @@ body {
         font-size: x-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
-        color: rgb(79, 138, 138);
+        color: rgb(222, 233, 217);
       }
       #head {
         font-size: large;
@@ -78,7 +86,8 @@ body {
       }
       #span {
         float: right;
-        margin-top: -6%;
+        margin-top: -5%;
+        font-size: larger;
       }
       table {
         width: 100%;
@@ -90,17 +99,17 @@ body {
         border-right: 1px solid rgb(87, 139, 87);
       }
       #one{
-        background-color: rgb(224, 243, 237);
+        background-color: rgb(222, 233, 217);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
         border: 1px;
         border-bottom-style: solid;
-        border-color: rgb(155, 197, 190);
+        border-color: rgb(148, 189, 182);
 
       }
       #two{
-        background-color: rgb(235, 247, 232);
+        background-color: rgb(222, 233, 217);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
@@ -109,7 +118,7 @@ body {
         border-color: rgb(155, 197, 190);
       }
       #three{
-        background-color: rgb(238, 232, 240);
+        background-color: rgb(222, 233, 217);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
