@@ -23,6 +23,7 @@ body {
     }
     .well {
         width: 100%;
+        margin-left: 2%;
     }
     .topnavigation {
         background-color: #d4ddd5;
@@ -39,8 +40,8 @@ body {
     
     .columnnav {
         float: left;
-        width: 15%; 
       }
+
     .column {
         float: left;
         width: 22%;
@@ -62,7 +63,7 @@ body {
       }
       #span {
         float: right;
-        margin-top: -5%;
+        margin-top: -6%;
       }
       table {
         width: 100%;
@@ -78,6 +79,9 @@ body {
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
+        border: 1px;
+        border-bottom-style: solid;
+        border-color: rgb(155, 197, 190);
 
       }
       #two{
@@ -85,12 +89,21 @@ body {
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
+        border: 1px;
+        border-bottom-style: solid;
+        border-color: rgb(155, 197, 190);
       }
       #three{
         background-color: rgb(238, 232, 240);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
+        border: 1px;
+        border-bottom-style: solid;
+        border-color: rgb(155, 197, 190);
+      }
+      .imgs{
+        margin:1%;
       }
 
 
