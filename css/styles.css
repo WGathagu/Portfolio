@@ -3,7 +3,14 @@ body {
     background: #1f3f3f;
     font-family: 'Libre Baskerville', sans-serif;
     }
-
+    .container {
+        border: 2px;
+        border-style: solid;
+        border-color: rgb(171, 202, 197);
+        width: 80%;
+        margin-left: 10%;
+        background: #ecf1e1;
+    }
     .topnavigation a {
         float: right;
         color: #f2f2f2;
@@ -12,7 +19,8 @@ body {
         text-decoration: none;
         font-size: 17px;
     }
-    .imgs {
+    #imgs {
         float: right;
     }
+
 
