@@ -7,9 +7,17 @@ body {
         border: 2px;
         border-style: solid;
         border-color: rgb(171, 202, 197);
-        width: 80%;
-        margin-left: 10%;
+        width: 90%;
+        margin-left: 5%;
         background: #ecf1e1;
+    }
+    .well {
+        padding: 10px;
+        border: 2px;
+        border-style: solid;
+        border-color: rgb(87, 139, 87);
+        width: 80%;
+        text-align: justify;
     }
     .topnavigation {
         background-color: #d7dfe2;
