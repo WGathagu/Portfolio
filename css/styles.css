@@ -3,8 +3,15 @@ body {
     background: #1f3f3f;
     font-family: 'Libre Baskerville', sans-serif;
     }
-  h3{
-    text-decoration: underline;
+    h2{
+        border: 4px;
+        border-bottom-style: solid;
+        border-color: rgb(42, 100, 90);
+        margin:1%;
+      }
+
+    h3{
+      text-decoration: underline;
     }  
     .container {
         border: 2px;
@@ -15,9 +22,6 @@ body {
         background: #ecf1e1;
     }
     .well {
-        border: 1px;
-        border-style: solid;
-        border-color: rgb(87, 139, 87);
         width: 100%;
     }
     .topnavigation {
@@ -30,15 +34,9 @@ body {
         text-align: center;
         padding: 14px 16px;
         font-weight: bold;
-        font-size: 17px;
+        font-size: 1em;
     }
-    .topnav a:hover {
-        background-color: #ddd;
-        color: black;
-      }
-    /* #imgs {
-        float: left;
-    }  */
+    
     .columnnav {
         float: left;
         width: 15%; 
@@ -68,7 +66,6 @@ body {
       }
       table {
         width: 100%;
-        border: 1px solid rgb(87, 139, 87);
       }
 
       td {
@@ -78,7 +75,6 @@ body {
       }
       #one{
         background-color: rgb(224, 243, 237);
-        border-bottom: 3px solid rgb(87, 139, 87);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
@@ -86,14 +82,12 @@ body {
       }
       #two{
         background-color: rgb(235, 247, 232);
-        border-bottom: 3px solid rgb(87, 139, 87);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
       }
       #three{
         background-color: rgb(238, 232, 240);
-        border-bottom: 3px solid rgb(87, 139, 87);
         margin: 3px;
         padding-bottom: 2%;
         margin: 2%;
