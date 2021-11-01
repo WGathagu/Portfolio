@@ -12,12 +12,10 @@ body {
         background: #ecf1e1;
     }
     .well {
-        padding: 10px;
-        border: 2px;
+        border: 1px;
         border-style: solid;
         border-color: rgb(87, 139, 87);
-        width: 80%;
-        text-align: justify;
+        width: 100%;
     }
     .topnavigation {
         background-color: #d7dfe2;
@@ -33,5 +31,18 @@ body {
     /* #imgs {
         float: right;
     } */
+    .column {
+        float: left;
+        width: 22%;
+        margin: 1%; 
+        border-right-style: dotted;
+        border-color: rgb(87, 139, 87);
+      }
+      
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
 
 
