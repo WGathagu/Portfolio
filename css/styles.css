@@ -3,6 +3,9 @@ body {
     background: #1f3f3f;
     font-family: 'Libre Baskerville', sans-serif;
     }
+  h3{
+    text-decoration: underline;
+    }  
     .container {
         border: 2px;
         border-style: solid;
@@ -73,5 +76,28 @@ body {
         padding: 3px;
         border-right: 1px solid rgb(87, 139, 87);
       }
+      #one{
+        background-color: rgb(224, 243, 237);
+        border-bottom: 3px solid rgb(87, 139, 87);
+        margin: 3px;
+        padding-bottom: 2%;
+        margin: 2%;
+
+      }
+      #two{
+        background-color: rgb(235, 247, 232);
+        border-bottom: 3px solid rgb(87, 139, 87);
+        margin: 3px;
+        padding-bottom: 2%;
+        margin: 2%;
+      }
+      #three{
+        background-color: rgb(238, 232, 240);
+        border-bottom: 3px solid rgb(87, 139, 87);
+        margin: 3px;
+        padding-bottom: 2%;
+        margin: 2%;
+      }
+
 
 
