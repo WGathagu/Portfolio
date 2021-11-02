@@ -1,30 +1,32 @@
-body {
+    body {
     color: #3a3838;
     background-image: url(../images/background.jpg);
     font-family: 'Libre Baskerville', sans-serif;
     }
-    h2{
+
+    h2 {
         border: 4px;
         border-bottom-style: solid;
         border-color: rgb(42, 100, 90);
         margin:2%;
-      }
+    }
 
-    h3{
+    h3 {
       text-decoration: underline;
     } 
 
-    h4{
+    h4 {
       padding: 1px;
       margin: 1px;
       border: 1px;
       border-bottom-style: solid;
       border-color: rgb(155, 197, 190);
-    }  
-    b{
+    } 
+
+    b {
       color: #1f3f3f;
     }
-
+  
     a:link {
       text-decoration-color: #1f3f3f;
     }
@@ -37,15 +39,18 @@ body {
         margin-left: 5%;
         background: #ecf1e1;
     }
+
     .well {
         width: 96%;
         background-color: rgb(222, 233, 217);
         margin-left: 2%;
     }
+
     .topnavigation {
         background-color: #c3d8c6;
         overflow: hidden;
       }
+
     .topnavigation a {
         float: left;
         color: rgb(70, 114, 114);
@@ -57,7 +62,7 @@ body {
     
     .columnnav {
         float: left;
-      }
+    }
 
     .column {
         float: left;
@@ -66,71 +71,73 @@ body {
         border-right-style: ridge;
         
         border-color: rgb(87, 139, 87);
-      }
+    }
       
-      .row:after {
-        content: "";
-        display: table;
-        clear: both;
-      }
-      #profilename {
+    #profilename {
         font-size: x-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
         color: rgb(70, 114, 114);
-      }
-      #head {
+    }
+     
+    #head {
         font-size: 1em;
         font-family: 'Franklin Gothic Medium';
         font-weight: bold;
         color: rgb(79, 138, 138);
-      }
-      #span {
+    }
+      
+    #span {
         float: right;
         margin-top: -5%;
-        font-size: larger;
-      }
-      table {
+        font-size: larger; 
+    }
+      
+    table {
         width: 100%;
         table-layout: fixed;
-      }
-
-      td {
+    }
+      
+    td {
         text-align: left;
         padding: 3px;
         border-right: 1px solid rgb(87, 139, 87);
-      }
-      .one{
+    }
+      
+    .one{
         background-color: rgb(222, 233, 217);
         margin: 3px;
-        padding-bottom: 1%;
+        padding: 1%;
         margin: 2%;
         border: 1px;
         border-bottom-style: solid;
         border-color: rgb(148, 189, 182);
 
-      }
+    }
     
-      .imgs{
+    .imgs{
         margin:1%;
-      }
-      #two{
+    }
+
+    #two{
         background-color: rgb(222, 233, 217);
         padding-bottom: 2%;
         margin: 2%;
         border: 1px;
         border-bottom-style: solid;
         border-color: rgb(155, 197, 190);
-      }
-      #skill{
+    }
+
+    #skill{
         font-style: italic;
         font-size: small;
-      }
-      #top{
+    }
+
+    #top{
         margin: 1%;
         color: rgb(70, 114, 114);
         margin-left:95%;
-      }
+    }
 
 
 
