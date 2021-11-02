@@ -59,6 +59,12 @@
         font-weight: bold;
         font-size: 0.9em;
     }
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
     
     .columnnav {
         float: left;
