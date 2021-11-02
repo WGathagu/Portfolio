@@ -91,6 +91,7 @@ body {
       }
       table {
         width: 100%;
+        table-layout: fixed;
       }
 
       td {
@@ -129,6 +130,19 @@ body {
       .imgs{
         margin:1%;
       }
+      #four{
+        background-color: rgb(222, 233, 217);
+        padding-bottom: 1%;
+        margin: 2%;
+        border: 1px;
+        border-bottom-style: solid;
+        border-color: rgb(155, 197, 190);
+      }
+      #skill{
+        font-style: italic;
+        font-size: small;
+      }
+      
 
 
 
