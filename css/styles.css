@@ -7,7 +7,7 @@ body {
         border: 4px;
         border-bottom-style: solid;
         border-color: rgb(42, 100, 90);
-        margin:1%;
+        margin:2%;
       }
 
     h3{
@@ -50,7 +50,7 @@ body {
         float: left;
         color: rgb(70, 114, 114);
         text-align: center;
-        padding: 14px 16px;
+        padding: 12px 14px;
         font-weight: bold;
         font-size: 0.9em;
     }
@@ -73,7 +73,7 @@ body {
         display: table;
         clear: both;
       }
-      #profile {
+      #profilename {
         font-size: x-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
@@ -110,7 +110,7 @@ body {
         border-color: rgb(148, 189, 182);
 
       }
-      
+    
       .imgs{
         margin:1%;
       }
@@ -129,7 +129,7 @@ body {
       #top{
         margin: 1%;
         color: rgb(70, 114, 114);
-        margin-left:90%;
+        margin-left:95%;
       }
 
 
