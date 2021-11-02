@@ -3,6 +3,10 @@
 #### By **Wangari Gathagu**
 ## Description
 Welcome to my Landing Page Portfolio showcasing my resume and programming experience.
+
+You can access the site on the below link
+https://wgathagu.github.io/Portfolio
+
 The sections include;
 * Projects
 * About Me
@@ -14,7 +18,7 @@ The sections include;
 ## Setup/Installation Requirements
 * The device in use must be connected to the internet
 * Install any Browser
-* Launch the site on the browser
+* Launch the site on the browser. The link is https://wgathagu.github.io/Portfolio
 * Can also be browsed on any mobile device connected to the internet
 ## Known Bugs
 No Known Bugs
