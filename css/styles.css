@@ -17,7 +17,7 @@
 
     h4 {
       padding: 1px;
-      margin: 1px;
+      margin: 1%;
       border: 1px;
       border-bottom-style: solid;
       border-color: rgb(155, 197, 190);
@@ -112,7 +112,6 @@
       
     .one{
         background-color: rgb(222, 233, 217);
-        margin: 3px;
         padding: 1%;
         margin: 2%;
         border: 1px;
@@ -136,7 +135,7 @@
 
     #skill{
         font-style: italic;
-        font-size: small;
+        font-size: medium;
     }
 
     #top{
