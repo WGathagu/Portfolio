@@ -1,7 +1,7 @@
     body {
     color: #3a3838;
     background-image: url(../images/background.jpg);
-    font-family: 'Libre Baskerville', sans-serif;
+    font-family: Arial Narrow;
     }
 
     h2 {
@@ -9,6 +9,7 @@
         border-bottom-style: solid;
         border-color: rgb(42, 100, 90);
         margin:2%;
+        font-family: 'Arial Narrow';
     }
 
     h3 {
@@ -81,14 +82,13 @@
       
     #profilename {
         font-size: x-large;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: sans-serif;
         font-weight: bold;
         color: rgb(70, 114, 114);
     }
      
     #head {
-        font-size: 1em;
-        font-family: 'Franklin Gothic Medium';
+        font-size: 1.1em;
         font-weight: bold;
         color: rgb(79, 138, 138);
     }
