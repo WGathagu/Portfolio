@@ -1,5 +1,5 @@
 # Portfolio
-#### Landing Page Portfolio showcasing my resume and programming experience, 02/11/2021
+#### Landing Page Portfolio showcasing my resume and programming experience, 02/11/2021.
 #### By **Wangari Gathagu**
 ## Description
 Welcome to my Landing Page Portfolio showcasing my resume and programming experience.
@@ -21,7 +21,7 @@ No Known Bugs
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
-Contact contact@contact.com if you run into any issues or have questions, ideas or queries or if you want to or make a contribution to the code
+Contact rachealkari@gmail.com if you run into any issues or have questions, ideas or queries or if you want to or make a contribution to the code
 ### License
 *This project is licensed under the terms of the MIT license.*
 Copyright (c) 2021 **WGathagu**
